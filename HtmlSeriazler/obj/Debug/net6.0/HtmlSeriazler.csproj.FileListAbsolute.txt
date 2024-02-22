@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler.exe
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler.deps.json
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler.runtimeconfig.json
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler.dll
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler.pdb
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.AssemblyInfo.cs
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.dll
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\refint\HtmlSeriazler.dll
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.pdb
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler.genruntimeconfig.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\ref\HtmlSeriazler.dll

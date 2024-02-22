@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.exe
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.deps.json
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.runtimeconfig.json
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.dll
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.pdb
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.AssemblyInfo.cs
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.dll
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\refint\HtmlSeriazler1.dll
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.pdb
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.genruntimeconfig.cache
+C:\Users\User\source\repos\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\ref\HtmlSeriazler1.dll
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.exe
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\jsons\HtmlTags.json
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\jsons\HtmlVoidTags.json
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.deps.json
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.runtimeconfig.json
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.dll
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\bin\Debug\net6.0\HtmlSeriazler1.pdb
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.AssemblyInfo.cs
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.dll
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\refint\HtmlSeriazler1.dll
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.pdb
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\HtmlSeriazler1.genruntimeconfig.cache
+C:\Users\User\Desktop\תכנות שרי שנה ב'\PractiCode\2\HtmlSeriazler\HtmlSeriazler\obj\Debug\net6.0\ref\HtmlSeriazler1.dll
